@@ -1,0 +1,97 @@
+1 Jegantha, the Wellspring
+1 Morselhoarder
+1 Binding the Old Gods
+1 Runes of the Deus
+1 Double vision
+1 Lightning Reaver
+1 Enter the God-Eternals
+1 Scholar of the Ages
+1 Cindervines
+1 Faeburrow Elder
+1 Kaya, Bane of the Dead
+1 Parcelbeast
+1 Glass of the Guildpact
+1 Swerve
+1 Svella, Ice Shaper
+1 Nicol Bolas, Dragon-God
+1 Leyline Prowler
+1 Wilt-Leaf Liege
+1 Casualties of War
+1 Rienne, Angel of Rebirth
+1 Lithoform Engine
+1 Spirit of Resistance
+1 Eerie Ultimatum
+1 Mirror Shield
+1 Clash of Titans
+1 Fusion Elemental
+1 Thraximundar
+1 Bull Cerodon
+1 Ilysian Caryatid
+1 Gloryscale Viashino
+1 Aerie Mystics
+1 Celestial Purge
+1 Nissa of Shadowed Boughs
+1 Mortify
+1 Mana Geode
+1 Sphinx of the Guildpact
+1 Lavalanche
+1 Colossal Majesty
+1 Elspeth Conquers Death
+1 Noble Purpose
+1 Inspired Ultimatum
+1 Bad Deal
+1 Predatory Advantage
+1 Bond of Insight
+1 Volcanic Vision
+1 Charnelhoard Wurm
+1 Guardian Project
+1 Thunderous Snapper
+1 Keeper of Fables
+1 Oversoul of Dusk
+1 Archon of Falling Stars
+1 Balefire Liege
+1 Genesis Ultimatum
+1 Cruel Ultimatum
+1 Rhythm of the Wild
+1 Maja, Bretagard Protector
+1 Garruk's Uprising
+1 Veil of Summer
+1 Smothering Tithe
+1 Broken Wings
+1 Kardur, Doomscourge
+1 Ethereal Absolution
+1 Kresh the Bloodbraided
+1 Shield of the Oversoul
+1 Pledge of loyalty
+1 Paradise Druid
+1 Bloodfell Caves
+1 Gateway Plaza
+1 Temple of the False God
+1 Thornwood Falls
+1 Rugged Prairie
+1 Jungle Hollow
+1 Jungle Shrine
+1 Rugged Highlands
+1 Detection Tower
+1 Tranquil Cove
+1 Blossoming Sands
+1 Evolving Wilds
+1 Rupture Spire
+1 Bonder's Enclave
+1 Swiftwater Cliffs
+1 Dismal Backwater
+1 Temple of Malady
+1 Scoured Barrens
+1 Crumbling Necropolis
+1 Seaside Citadel
+3 Mountain
+2 Island
+3 Plains
+4 Forest
+2 Swamp
+
+
+-- anciennes cartes
+1 Precognitive Perception
+1 Covetous Urge
+1 Skyshroud Elf
