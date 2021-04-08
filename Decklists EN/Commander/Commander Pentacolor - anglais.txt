@@ -1,4 +1,7 @@
 1 Jegantha, the Wellspring
+1 Morselhoarder
+1 Binding the Old Gods
+1 Runes of the Deus
 1 Double vision
 1 Lightning Reaver
 1 Enter the God-Eternals
@@ -9,7 +12,7 @@
 1 Parcelbeast
 1 Glass of the Guildpact
 1 Swerve
-1 Beanstalk Giant
+1 Svella, Ice Shaper
 1 Nicol Bolas, Dragon-God
 1 Leyline Prowler
 1 Wilt-Leaf Liege
@@ -50,12 +53,12 @@
 1 Genesis Ultimatum
 1 Cruel Ultimatum
 1 Rhythm of the Wild
-1 Thwart the Enemy
+1 Maja, Bretagard Protector
 1 Garruk's Uprising
 1 Veil of Summer
 1 Smothering Tithe
 1 Broken Wings
-1 Firemind Vessel
+1 Kardur, Doomscourge
 1 Ethereal Absolution
 1 Kresh the Bloodbraided
 1 Shield of the Oversoul
@@ -86,12 +89,3 @@
 3 Plains
 4 Forest
 2 Swamp
-1 Morselhoarder
-1 Vhati il-Dal
-1 Runes of the Deus
-
-
--- anciennes cartes
-1 Precognitive Perception
-1 Covetous Urge
-1 Skyshroud Elf
