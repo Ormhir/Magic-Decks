@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ashes to Ashes"/>
+        <card number="1" name="Doubtless One"/>
+        <card number="2" name="Funeral Rites"/>
+        <card number="4" name="Kor Celebrant"/>
+        <card number="2" name="Relic Vial"/>
+        <card number="2" name="Taborax, Hope's Demise"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Etchings of the Chosen"/>
+        <card number="4" name="Ministrant of Obligation"/>
+        <card number="2" name="Angelic Exaltation"/>
+        <card number="1" name="Angel of Destiny"/>
+        <card number="1" name="Orah, Skyclave Hierophant"/>
+        <card number="4" name="Aphetto Dredging"/>
+        <card number="1" name="Mortify"/>
+        <card number="4" name="Imperious Oligarch"/>
+        <card number="2" name="Demon's Disciple"/>
+        <card number="1" name="Profane Prayers"/>
+        <card number="2" name="Cleric of Life's Bond"/>
+        <card number="3" name="Daunting Defender"/>
+        <card number="1" name="Attended Healer"/>
+        <card number="1" name="Edgewalker"/>
+        <card number="1" name="Glorious Anthem"/>
+        <card number="2" name="Scoured Barrens"/>
+        <card number="4" name="Orzhov Guildgate"/>
+        <card number="6" name="Swamp"/>
+        <card number="6" name="Plains"/>
+    </zone>
+</cockatrice_deck>

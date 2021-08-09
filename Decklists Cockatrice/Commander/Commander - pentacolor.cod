@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jegantha, the Wellspring"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="General Ferrous Rokiric"/>
+        <card number="1" name="Garth One-Eye"/>
+        <card number="1" name="Morselhoarder"/>
+        <card number="1" name="Binding the Old Gods"/>
+        <card number="1" name="Runes of the Deus"/>
+        <card number="1" name="Double Vision"/>
+        <card number="1" name="Lightning Reaver"/>
+        <card number="1" name="Enter the God-Eternals"/>
+        <card number="1" name="Scholar of the Ages"/>
+        <card number="1" name="Cindervines"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Kaya, Bane of the Dead"/>
+        <card number="1" name="Parcelbeast"/>
+        <card number="1" name="Glass of the Guildpact"/>
+        <card number="1" name="Swerve"/>
+        <card number="1" name="Svella, Ice Shaper"/>
+        <card number="1" name="Nicol Bolas, Dragon-God"/>
+        <card number="1" name="Leyline Prowler"/>
+        <card number="1" name="Wilt-Leaf Liege"/>
+        <card number="1" name="Casualties of War"/>
+        <card number="1" name="Rienne, Angel of Rebirth"/>
+        <card number="1" name="Spirit of Resistance"/>
+        <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Fusion Elemental"/>
+        <card number="1" name="Thraximundar"/>
+        <card number="1" name="Bull Cerodon"/>
+        <card number="1" name="Ilysian Caryatid"/>
+        <card number="1" name="Gloryscale Viashino"/>
+        <card number="1" name="Aerie Mystics"/>
+        <card number="1" name="Celestial Purge"/>
+        <card number="1" name="Nissa of Shadowed Boughs"/>
+        <card number="1" name="Mortify"/>
+        <card number="1" name="Mana Geode"/>
+        <card number="1" name="Sphinx of the Guildpact"/>
+        <card number="1" name="Lavalanche"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="Noble Purpose"/>
+        <card number="1" name="Inspired Ultimatum"/>
+        <card number="1" name="Bad Deal"/>
+        <card number="1" name="Predatory Advantage"/>
+        <card number="1" name="Volcanic Vision"/>
+        <card number="1" name="Charnelhoard Wurm"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Thunderous Snapper"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Oversoul of Dusk"/>
+        <card number="1" name="Archon of Falling Stars"/>
+        <card number="1" name="Genesis Ultimatum"/>
+        <card number="1" name="Cruel Ultimatum"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Maja, Bretagard Protector"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Broken Wings"/>
+        <card number="1" name="Kardur, Doomscourge"/>
+        <card number="1" name="Ethereal Absolution"/>
+        <card number="1" name="Kresh the Bloodbraided"/>
+        <card number="1" name="Shield of the Oversoul"/>
+        <card number="1" name="Pledge of Loyalty"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Bloodfell Caves"/>
+        <card number="1" name="Gateway Plaza"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Detection Tower"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Rupture Spire"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Temple of Malady"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="Island"/>
+        <card number="3" name="Plains"/>
+        <card number="4" name="Forest"/>
+        <card number="2" name="Swamp"/>
+    </zone>
+</cockatrice_deck>
