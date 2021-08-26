@@ -1,18 +1,17 @@
+1 Goblin Javelineer
+1 Conspicuous Snoop
 4 Goblin Sledder
 1 Goblin War Strike
 3 Goblin Ringleader
 4 Reckless One
-3 Tin Street Dodger
+4 Tin Street Dodger
 4 Goblin Warchief
-1 Boggart Brute
 4 Goblin Gathering
 2 Rites of Initiation
 4 Goblin Grappler
 2 Gempalm Incinerator
-1 Raging Goblin
 1 Moggcatcher
 1 Goblin Instigator
-1 Skirk Drill Sergeant
 2 Goblin Lookout
 1 Bloodmark Mentor
 1 Goblin Recruiter
